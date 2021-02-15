@@ -5,10 +5,12 @@ defaultContentLanguage = "en"
 [languages]
   [languages.tr]
   contentDir = "content/tr"
+    LanguageName = "Turkish"
     languagedirection = "tr"
     title = "Benim Blog"
     weight = 2
   [languages.en]
+    LanguageName = "English"
   contentDir = "content/en"
     title = "My blog"
     weight = 1
