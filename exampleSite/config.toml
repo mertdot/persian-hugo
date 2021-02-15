@@ -1,17 +1,14 @@
-baseURL = " adoring-northcutt-8d7331.netlify.app/en"
 disqusShortname = ""
 languageCode = "en-us"
 languageName = "En"
 defaultContentLanguage = "en"
 [languages]
   [languages.tr]
-  baseURL = " adoring-northcutt-8d7331.netlify.app/tr"
   contentDir = "content/tr"
     languagedirection = "tr"
     title = "Benim Blog"
     weight = 2
   [languages.en]
-  baseURL = " adoring-northcutt-8d7331.netlify.app/en"
   contentDir = "content/en"
     title = "My blog"
     weight = 1
