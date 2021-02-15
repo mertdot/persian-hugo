@@ -10,8 +10,8 @@ defaultContentLanguage = "en"
     title = "Benim Blog"
     weight = 2
   [languages.en]
-    LanguageName = "English"
   contentDir = "content/en"
+   LanguageName = "English"
     title = "My blog"
     weight = 1
     [languages.en.params]
