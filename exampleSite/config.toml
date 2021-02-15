@@ -2,6 +2,18 @@ baseURL = " adoring-northcutt-8d7331.netlify.app"
 disqusShortname = ""
 languageCode = "en-us"
 languageName = "En"
+defaultContentLanguage = "en"
+[languages]
+  [languages.tr]
+    languagedirection = "tr"
+    title = "Benim Blog"
+    weight = 2
+  [languages.en]
+    title = "My blog"
+    weight = 1
+    [languages.en.params]
+      linkedin = "https://linkedin.com/whoever"
+
 paginate = "5"
 theme = "persian"
 title = "Persian"
