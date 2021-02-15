@@ -5,10 +5,12 @@ languageName = "En"
 defaultContentLanguage = "en"
 [languages]
   [languages.tr]
+  baseURL = " adoring-northcutt-8d7331.netlify.app/tr"
     languagedirection = "tr"
     title = "Benim Blog"
     weight = 2
   [languages.en]
+  baseURL = " adoring-northcutt-8d7331.netlify.app/en"
     title = "My blog"
     weight = 1
     [languages.en.params]
